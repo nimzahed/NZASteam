@@ -1,0 +1,14 @@
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\NSteam.csproj.AssemblyReference.cache
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\NSteam.GeneratedMSBuildEditorConfig.editorconfig
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\NSteam.AssemblyInfoInputs.cache
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\NSteam.AssemblyInfo.cs
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\NSteam.csproj.CoreCompileInputs.cache
+E:\[engine]\NSteam\NSteam\bin\Debug\net5.0\NSteam.deps.json
+E:\[engine]\NSteam\NSteam\bin\Debug\net5.0\NSteam.dll
+E:\[engine]\NSteam\NSteam\bin\Debug\net5.0\NSteam.pdb
+E:\[engine]\NSteam\NSteam\bin\Debug\net5.0\Steamworks.NET.dll
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\NSteam.csproj.CopyComplete
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\NSteam.dll
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\refint\NSteam.dll
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\NSteam.pdb
+E:\[engine]\NSteam\NSteam\obj\Debug\net5.0\ref\NSteam.dll
